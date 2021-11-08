@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Keith
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning robotics and HTML
